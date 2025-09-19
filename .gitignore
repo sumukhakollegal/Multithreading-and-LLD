@@ -30,3 +30,6 @@ Testing/
 # Cursor editor
 .cursor/
 
+
+# Local media cache for git-sim
+/git-sim_media/
