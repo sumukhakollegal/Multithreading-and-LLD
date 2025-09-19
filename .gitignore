@@ -1,0 +1,32 @@
+
+
+# macOS
+.DS_Store
+
+# C/C++ build artifacts
+*.o
+*.obj
+*.out
+*.a
+*.so
+*.dylib
+*.exe
+
+# CMake / build dirs
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+Makefile
+CMakeScripts/
+Testing/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+
+# Cursor editor
+.cursor/
+
