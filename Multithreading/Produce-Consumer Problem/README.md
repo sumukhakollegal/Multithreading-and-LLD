@@ -201,7 +201,7 @@ g++ -std=c++20 -pthread producer-consumer-main.cpp -o producer_consumer
 
 ---
 
-## 🔗 Related Concepts
+## 🔗 Similar Questions / Concepts
 
 - **Monitor Pattern**
 - **Readers-Writers Problem**
